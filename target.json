@@ -1,0 +1,10 @@
+{
+    "include": [
+        {
+            "keyboard": "affa_o",
+            "keymap": "vial",
+            "target": "uf2",
+            "name": "affa_o_vial"
+        }
+    ]
+}
